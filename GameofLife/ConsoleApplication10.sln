@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameofLife", "ConsoleApplication10\GameofLife.csproj", "{1F5E24D5-8EB2-4AAE-84C8-C6BF98BD5E17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{2F38568F-1E07-4763-9813-A40FD90F639B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F5E24D5-8EB2-4AAE-84C8-C6BF98BD5E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5E24D5-8EB2-4AAE-84C8-C6BF98BD5E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5E24D5-8EB2-4AAE-84C8-C6BF98BD5E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5E24D5-8EB2-4AAE-84C8-C6BF98BD5E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F38568F-1E07-4763-9813-A40FD90F639B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F38568F-1E07-4763-9813-A40FD90F639B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F38568F-1E07-4763-9813-A40FD90F639B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F38568F-1E07-4763-9813-A40FD90F639B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

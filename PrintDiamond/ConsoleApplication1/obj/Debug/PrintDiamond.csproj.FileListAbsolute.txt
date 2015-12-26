@@ -1,0 +1,6 @@
+C:\Users\RAJ\Desktop\GameAndPrintDiamond\PrintDiamond\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\RAJ\Desktop\GameAndPrintDiamond\PrintDiamond\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\RAJ\Desktop\GameAndPrintDiamond\PrintDiamond\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\RAJ\Desktop\GameAndPrintDiamond\PrintDiamond\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\RAJ\Desktop\GameAndPrintDiamond\PrintDiamond\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\RAJ\Desktop\GameAndPrintDiamond\PrintDiamond\ConsoleApplication1\obj\Debug\PrintDiamond.csprojResolveAssemblyReference.cache
